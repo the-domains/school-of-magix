@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[School of Magix]]></title>
         <description><![CDATA[School of Magix]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/school-of-magix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 19:51:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 20:03:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/school-of-magix/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Homepage Magix]]></title>
             <description><![CDATA[<h1>Homepage Magix</h1>]]></description>
-            <link>undefinedhomepage-magix/index.html</link>
+            <link>https://thegrid.ai/school-of-magix/homepage-magix/index.html</link>
             <guid isPermaLink="false">19cb7373-85a1-4c7c-a3c1-6b88ab908417</guid>
-            <pubDate>Mon, 09 Nov 2015 19:51:43 GMT</pubDate>
+            <pubDate>Mon, 09 Nov 2015 20:03:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
