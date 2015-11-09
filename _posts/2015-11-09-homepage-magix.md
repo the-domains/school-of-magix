@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-09T19:51:43.529Z'
-dateModified: '2015-11-09T19:51:28.900Z'
+datePublished: '2015-11-09T20:03:35.759Z'
+dateModified: '2015-11-09T19:52:49.411Z'
 title: Homepage Magix
 authors: []
 publisher:
